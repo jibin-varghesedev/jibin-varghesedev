@@ -1,8 +1,11 @@
 # Hi there 👋 I'm Jibin Varghese
 
 <p align="left">
-Ruby on Rails Developer with 6+ years of IT experience building scalable enterprise applications, Government e-Marketplace (GeM) modules, REST APIs, and production-ready backend systems.
-
+Ruby on Rails Developer with 6+ years of IT experience, including 4+ years of specialized expertise in Ruby on Rails
+development. Proven track record in designing, developing, and maintaining scalable enterprise applications, government procurement
+portals (GeM), and ERP platforms. Proficient in Ruby on Rails, Angular, PostgreSQL, MySQL, Docker, Git, Redis, ActiveRecord, and
+Agile methodologies. Experienced in L2/L3 production support, RESTful API development, role-based authorization, and database
+query optimization in high-volume production environments.
 Currently expanding my expertise in Cloud, DevOps, Docker, Kubernetes, and AWS.
 </p>
 
