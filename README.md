@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm **Jibin Varghese**
 
-### 🚀 Ruby on Rails Developer | Backend Engineer | Aspiring DevOps Engineer
+### 🚀 Ruby on Rails Developer | Backend Engineer | Full Stack Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Ruby+on+Rails+Developer;Backend+Developer;Docker+%7C+Linux+%7C+AWS;Learning+Kubernetes+%26+Terraform;Always+Learning+New+Technologies" />
 
