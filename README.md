@@ -133,10 +133,10 @@ Features
 ## 📫 Connect With Me
 
 📧 Email:
-your_email@gmail.com
+jibinvarghese835@gmail.com
 
 💼 LinkedIn:
-https://linkedin.com/in/your-linkedin
+https://www.linkedin.com/in/jibin-varghese-18442a122
 
 ```
 
